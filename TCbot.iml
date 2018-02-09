@@ -39,9 +39,9 @@
       </library>
     </orderEntry>
     <orderEntry type="module-library">
-      <library name="Maven: sample:com.sample:1.0">
+      <library name="Maven: tg:bot:1.0">
         <CLASSES>
-          <root url="jar://$MODULE_DIR$/src/main/resources/yourJar.jar!/" />
+          <root url="jar://$MODULE_DIR$/resources/telegrambots-3.5-jar-with-dependencies.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />

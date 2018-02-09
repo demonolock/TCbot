@@ -29,6 +29,8 @@
     <dependency>
         <groupId>tg</groupId>
         <artifactId>bot</artifactId>
+        <version>1.0</version>
+        <scope>system</scope>
         <systemPath>${project.basedir}/resources/telegrambots-3.5-jar-with-dependencies.jar</systemPath>
     </dependency>
     </dependencies>
